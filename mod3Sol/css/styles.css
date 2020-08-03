@@ -1,0 +1,13 @@
+.navbar-brand h1{
+font-family: 'Lora', sans-serif;
+color: #557c3e;
+font-size: 1.5em;
+text-transform: uppercase;
+font-weight: bold;
+text-shadow: 1px 1px 1px #222;
+line-height: 0.75;
+}
+
+body{
+  font-family: 'Oxygen',cursive;
+}
